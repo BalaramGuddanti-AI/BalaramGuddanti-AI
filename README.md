@@ -4,24 +4,23 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm P N Anirudh!
+    I'm Balaram Guddanti!
 </h3>
 
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anirudhpnbb.anirudhpnbb)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BalaramGuddanti-AI.BalaramGuddanti-AI)
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Data Scientist.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
-- Currently working at [Salesforce](https://www.salesforce.com). I am a tech enthusiast. Feel free to connect with me here:
+- I am a tech enthusiast. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-pnbbanirudh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pnbbanirudh/)](https://www.linkedin.com/in/pnbbanirudh/)
-[![Instagram Badge](https://img.shields.io/badge/-anirudhpalaparthi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anirudhpalaparthi/)](https://instagram.com/anirudhpalaparthi)
-[![Medium Badge](https://img.shields.io/badge/-@anirudhpalaparthi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@anirudhpalaparthi/)](https://medium.com/@anirudhpalaparthi)
-[![Gmail Badge](https://img.shields.io/badge/-anirudhpalaparthi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhpalaparthi@gmail.com)](mailto:anirudhpalaparthi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-BalaramGuddanti-AI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balaram-guddanti/)](https://www.linkedin.com/in/pnbbanirudh/)
+[![Instagram Badge](https://img.shields.io/badge/-BalaramGuddanti-AI-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lucid_dreamer_6/)](https://www.instagram.com/lucid_dreamer_6/)
+[![Gmail Badge](https://img.shields.io/badge/-balaram.guddanti6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:balaram.guddanti6@gmail.com)](mailto:balaram.guddanti6@gmail.com)
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
