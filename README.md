@@ -18,8 +18,8 @@
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
 - I am a tech enthusiast. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-BalaramGuddanti-AI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balaram-guddanti/)](https://www.linkedin.com/in/pnbbanirudh/)
-[![Instagram Badge](https://img.shields.io/badge/-BalaramGuddanti-AI-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lucid_dreamer_6/)](https://www.instagram.com/lucid_dreamer_6/)
+[![Linkedin Badge](https://img.shields.io/badge/-BalaramGuddanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balaram-guddanti/)](https://www.linkedin.com/in/pnbbanirudh/)
+[![Instagram Badge](https://img.shields.io/badge/-BalaramGuddanti-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lucid_dreamer_6/)](https://www.instagram.com/lucid_dreamer_6/)
 [![Gmail Badge](https://img.shields.io/badge/-balaram.guddanti6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:balaram.guddanti6@gmail.com)](mailto:balaram.guddanti6@gmail.com)
 
 ## ⚡ Technologies
